@@ -18,8 +18,8 @@ No electronical parts needed just a 3d printer
 | Item | Category  | Description        | Qty | Unit Price (USD) | Total (USD) |
 |-----:|-----------|--------------------|----:|-----------------:|------------:|
 | 1 | PRINT LEGION | Printed Parts | 1 | 0.00 | 0.00 |
-| 2 | Shipping | Approx. Shipping | 1 | 15.00 | 15.00 |
+| 2 | Shipping | Approx. Shipping | 1 | 5 | 5 |
 
-**Subtotal: $15.00**
+**Subtotal: $5**
 
 
